@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Go Barber" src="./src/assets/go-barber.png" width="400px" style="border-radius:16px;"/>
+  <img alt="Go Barber" src="./src/assets/go-barber.jpg" width="400px" style="border-radius:16px;"/>
 </h1>
 
 <h3 align="center" >
