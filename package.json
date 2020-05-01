@@ -18,7 +18,8 @@
     "react-icons": "^3.10.0",
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.0",
-    "typescript": "~3.7.2"
+    "typescript": "~3.7.2",
+    "yup": "^0.28.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -42,6 +43,7 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@types/styled-components": "^5.1.0",
+    "@types/yup": "^0.28.0",
     "@typescript-eslint/eslint-plugin": "^2.30.0",
     "@typescript-eslint/parser": "^2.30.0",
     "commitizen": "^4.0.4",
