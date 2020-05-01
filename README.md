@@ -57,6 +57,8 @@
 - **#ESLint**
 - **#Prettier**
 - **#Styled-Components**
+- **#Unform**
+- **#Yup**
 
 ## Install
 
